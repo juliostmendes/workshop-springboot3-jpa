@@ -44,12 +44,7 @@ The application uses `application.properties` for configuration:
 - `application-dev.properties` (Development environment)
 - `application-test.properties` (Testing environment)
 
-## API Testing
-- A Postman collection is available to test the API.
-
-## Deployment
-- **No planned deployment** (Local testing only)
-- **CI/CD:** Manual deployment
+*If running the Development environment make sure to config your Postgres data
 
 ## Future Improvements
 - Implement authentication (JWT)
